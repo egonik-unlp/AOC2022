@@ -131,6 +131,9 @@ dependencies = [
 [[package]]
 name = "day_5"
 version = "0.1.0"
+dependencies = [
+ "regex",
+]
 
 [[package]]
 name = "encoding_rs"
